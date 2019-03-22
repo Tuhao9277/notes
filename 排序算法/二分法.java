@@ -1,4 +1,3 @@
-# 
 
 public static int midSearch(arr,int l ,int r){
     int l = arr;
@@ -18,6 +17,4 @@ public static int midSearch(arr,int l ,int r){
     }
 }
 
-处理 mid = （L+R)/2;
-    也可写成 L+(R-L)/2)
-    还可写成 (R-L) >>1
+//处理 mid = （L+R)/2;也可写成 L+(R-L)/2);还可写成 (R-L) >>1
