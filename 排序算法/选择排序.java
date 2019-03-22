@@ -1,4 +1,4 @@
-# 选择排序
+//选择排序
 for(int i ; i< len.length;i++){
     min = arr[i];
     for(int j= i+1;j<len.length;j++){
